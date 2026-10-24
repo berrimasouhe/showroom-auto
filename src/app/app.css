@@ -1,0 +1,18 @@
+h3 {
+  margin: 20px 30px 10px;
+  font-family: "Playfair Display", Georgia, serif;
+  font-size: 1.9rem;
+  color: #c9a24d;
+  letter-spacing: 2px;
+}
+
+p {
+  margin: 0 30px 40px;
+  padding: 20px 25px;
+  line-height: 1.8;
+  color: #d0d0d6;
+  background: #17171a;
+  border-left: 4px solid #c9a24d;
+  border-radius: 8px;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.5);
+}
